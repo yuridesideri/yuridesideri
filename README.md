@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuridesideri
 - 👀 I’m interested in constantly learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I don't don't think I'm in position to collaborate yet, more like get collaborated 
 - 📫 You can reach me on Email: yuridesideri12@gmail.com, Twitter: DesideriYuri and Instagram: @yuri_desideri
 
