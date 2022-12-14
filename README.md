@@ -1,4 +1,4 @@
-<h1 align = "center">Oi, eu sou o Daniel Nogueira🤝
+<h1 align = "center">Oi, eu sou o Yuri Desideri🤝
 </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuri_desideri.c/)
