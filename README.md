@@ -23,4 +23,4 @@ Meu nome é Yuri Desideri e tenho 19 anos.
 
 <img align = "left" width="450" src = "https://github-readme-stats.vercel.app/api?username=yuridesideri&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20do%20GitHub"/>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yuridesideri&layout=compact&locale=pt-br)](https://github.com/daniel-costa/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yuridesideri&layout=compact&theme=dark#gh-dark-mode-only&locale=pt-br)](https://github.com/yuridesideri/github-readme-stats)
