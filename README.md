@@ -1,4 +1,4 @@
-<h1 align = "center">Oi, eu sou o Yuri Desideri🤝
+<h1 align = "center">Hi, I'm Yuri Desideri🤝
 </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuri_desideri/)
@@ -6,9 +6,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuridesideri12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuridesideri)
 
-## Sobre Mim 👋
+## About me 👋
 
-Meu nome é Yuri Desideri e tenho 19 anos.
+Tech enthusiast, and cool software builder
 
 ## Tech 🤖
 
